@@ -1,8 +1,7 @@
 ## Blender File Storage and Display
 
-<link href="style.css" type="text/css" rel="stylesheet"/>
-
 ---
+
 This repository is meant for the purpose of storing and showcasing the blender files and renders.
 
 ---
@@ -10,5 +9,15 @@ This repository is meant for the purpose of storing and showcasing the blender f
 **Below are some pictures and gifs.**
 
 ---
+
 <br/>
-<img src='./Images-n-Videos/fireflies in a football ground gif.gif' alt="GIF not available">
+<img 
+src='./Images-n-Videos/fireflies in a football ground gif.gif'
+alt="GIF not available"
+style="width:300px"
+title="Football Ground Night">
+
+<img src='./Images-n-Videos/football_Day.gif'
+alt="GIF not available"
+style="width:300px"
+title="Football Ground Night">
